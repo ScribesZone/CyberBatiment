@@ -57,20 +57,15 @@ Exigences
 * En cas de perte ,le [bagdeur] doit informer le [centre de sécurité] et un [incident système] doit être enregistré dans l’[historique d'incident]
 * Les gardiens ou toutes personnes disposants des droits pourront débloquer l'accès ou la sortie d'une personne depuis leur [smartphone]
 * Symétrie : Un [Bissas] sera symétrique. Il comportera 2 lecteurs, permettant de contrôler l'entrée et la sortie du [Bissas].
-* <<ExigenceFonctionnelle>> Les lecteurs des bissas permettent d'identifier les [badgeur]s entrants et sortants ainsi que
-de calculer le nombre de [badgeur]s présents à l'intérieur du [site]
-* <<ExigencePerformance>>  La puissance du [serveurApplicatif] doit être en fonction de la quantité des données et du
-nombre d'échange de ces données
+* <<ExigenceFonctionnelle>> Les lecteurs des bissas permettent d'identifier les [badgeur]s entrants et sortants ainsi que de calculer le nombre de [badgeur]s présents à l'intérieur du [site]
+* <<ExigencePerformance>>  La puissance du [serveurApplicatif] doit être en fonction de la quantité des données et du nombre d'échange de ces données
 * Batemis permet d’installer des systèmes de brouillage et bien d’autres choses, rendant le réseau à la fois sûr et fiable.
 * Certains [Site] ne sont pas temporaires et donc le système CyberBatiment doit être durable.
-* L’[administrateur] doit donner l'accès a une [zone] par rapport au [groupe] de [badgeur] et
-aux heures
+* L’[administrateur] doit donner l'accès a une [zone] par rapport au [groupe] de [badgeur] et aux heures
 * Les [badges] papiers pour les spectateurs seront émis par un système en ligne.
 * Infos bissas: Les [Bissas] doivent signaler lorsqu'une porte arrive en position ouverte ou fermée
-* Le fait de donner un [badge] et l'annulation d'un [badge] doivent être enregistrés dans l’
-[historique]
-* Tous les [points d’accès] doivent être ouverts automatiquement vers l’extérieur dans les
-zones dits [“Incendie Libre”]
+* Le fait de donner un [badge] et l'annulation d'un [badge] doivent être enregistrés dans l’ [historique]
+* Tous les [points d’accès] doivent être ouverts automatiquement vers l’extérieur dans les zones dits [“Incendie Libre”]
 * Le nombre de [badgeurs] par [groupe] doit être au maximum de 300
 * Gestion securité humaine : Les personnes à sécuriser par [batemis] seront gérées par regroupement
 * Gestion des [droit d'accès] : Les [groupe]s auront des droits d'accès géré à l'aide de [badge]s
