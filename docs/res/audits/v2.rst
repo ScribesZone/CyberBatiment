@@ -1,0 +1,84 @@
+Audit V2
+========
+
+
+Questions
+^^^^^^^^^
+
+* On parle de Web Server, WebService, Serveur Web??? Ca donne une confusion.
+* Quels sont les différents niveaux de sécurité ?
+* Les postes superviseurs et administrateurs disposent-ils d'une sécurité particulière ?
+* Quand on change de zone en passant par un [pointControle], es-ce une entrée ou une sortie
+* Est-il indisponsable de gérer les horaires d'accès à une [zone] par [groupe de badgeur]?
+* Quels éléments doivent être développés en python?
+* Comment les portraits sont-ils enregistrés?
+* Quel est le web service qui devra gérer la transmission des données entre [CyberCompetition] et [CyberBatiment] ?
+
+Hypothèses
+^^^^^^^^^^
+
+* Une personne peut appartenir à plusieurs groupes
+* Web service: Nous supposons que les webs service seront sur notre serveur interne.
+* H001: Pour la question Q002, nous ne pensons pas que ce soit utile donc nous ne le prenons pas en compte pour l'instant.
+
+Lexique
+^^^^^^^
+* véhicules : Moyen de transport
+* Incident : Problème\Erreur survenu à un moment donné
+* Spectateur : Il s'agit d'un [Groupe] de [Badgeur] qui assiste à une [Epreuve]
+* historique de visite : un [historique] dédié au visite d'un [badgeur]
+* Accès : Possibilité pour un [GroupeDeBadgeur] d'atteindre une [zone].
+* Incident : Evenement qui perturbe le bon fonctionnement du système
+* Spectateurs : les non-employés ou visiteurs qui accèdent aux batiments [sites]
+* AntiPiggybacking: Fonction qui permet le comptage des personnes
+* badgeur : un [badgeur] est défini par son nom, son prénom et un [NIN]
+* Alerte : Alerte système à destination d'un [gardien] en charge de la [zone] concerné.
+* Bissas : [Sas] d'entrée ou de sorties utilisées dans le système
+* Gardien : Personne chargé du bon fonctionnement des [sas] et de la sécurité au sein de la
+[zone].
+* Evenement : Un [Evenement] suite à un non respect des règlements definies par [CyberBatiment].
+* Autorisation : Un ou plusieurs [groupe](s) qui ont des [droit d'accès] précis
+* Administrateur: Personne qui gère [CyberBatiment] et donne des droits d'accès au [GroupeDeBadgeur] .
+* Droit d'accès : [zone] et période précise
+* Etat : L'[état] du [bissas] sera défini par un feu tricolore
+* Historique : ensemble des [information]s gardés en mémoire
+* Incident : Un [incident] est un cas spécial lors duquel des [droits d'accès] spéciaux sont mis en place
+* Information : Donnée recensé par [CyberBatiment]
+* Serveur applicatif: Serveur gérant les webs services
+* Site: Futur client de [batemis] pour [CyberBatiment], endroit composé de [zone]s
+* Zone: Espace possédant un nombre de personnes maximal
+
+Exigences
+^^^^^^^^^
+* Ils ne pourront accéder qu’à la tribune correspondant à leur billet.
+* dans les zones [Incendie Libre] (IL),Tous les[ points d’accès] doivent être ouverts automatiquement vers l’extérieur
+* Un [Bissas] aura un flux important
+* Différents groupe de personnes autorisées devront être définis.
+* En cas de perte ,le [bagdeur] doit informer le [centre de sécurité] et un [incident système] doit être enregistré dans l’[historique d'incident]
+* Les gardiens ou toutes personnes disposants des droits pourront débloquer l'accès ou la sortie d'une personne depuis leur [smartphone]
+* Symétrie : Un [Bissas] sera symétrique. Il comportera 2 lecteurs, permettant de contrôler l'entrée et la sortie du [Bissas].
+* <<ExigenceFonctionnelle>> Les lecteurs des bissas permettent d'identifier les [badgeur]s entrants et sortants ainsi que
+de calculer le nombre de [badgeur]s présents à l'intérieur du [site]
+* <<ExigencePerformance>>  La puissance du [serveurApplicatif] doit être en fonction de la quantité des données et du
+nombre d'échange de ces données
+* Batemis permet d’installer des systèmes de brouillage et bien d’autres choses, rendant le réseau à la fois sûr et fiable.
+* Certains [Site] ne sont pas temporaires et donc le système CyberBatiment doit être durable.
+* L’[administrateur] doit donner l'accès a une [zone] par rapport au [groupe] de [badgeur] et
+aux heures
+* Les [badges] papiers pour les spectateurs seront émis par un système en ligne.
+* Infos bissas: Les [Bissas] doivent signaler lorsqu'une porte arrive en position ouverte ou fermée
+* Le fait de donner un [badge] et l'annulation d'un [badge] doivent être enregistrés dans l’
+[historique]
+* Tous les [points d’accès] doivent être ouverts automatiquement vers l’extérieur dans les
+zones dits [“Incendie Libre”]
+* Le nombre de [badgeurs] par [groupe] doit être au maximum de 300
+* Gestion securité humaine : Les personnes à sécuriser par [batemis] seront gérées par regroupement
+* Gestion des [droit d'accès] : Les [groupe]s auront des droits d'accès géré à l'aide de [badge]s
+* Gestion des [billet]s : Les [billet]s seront gérés par [CyberCompetition]
+* Installation supplémentaire : Possibilité d'ajouter une fonction de brouillage afin de rendre le réseau sécurisé
+* <<ExigenceDeveloppement>> [incident] grave : Les droits d'accès d'une [zone] doivent pouvoir changer automatiquement en cas d'[incident]
+* <<ExigenceDeveloppement>> Gestion des [incident]s : Une fois un [incident] réglé ou ignoré, on peut encore le commenter
+
+Deploiement
+^^^^^^^^^^^
+* <<Noeud>> Internet

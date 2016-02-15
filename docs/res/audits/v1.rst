@@ -154,11 +154,11 @@ Lexique
 #. Superviseur | Leader, manager d'un projet, évenement
 #. Course d'endurance, ou participe plusieurs [sportifs], avec un vainqueurs à la fin de celle-ci
 #. Autorisation | Une autorisation est un "laisser passer" définit pour un [groupe] durant une période défini
-#. Serveur de contrôl | L'ERP développé
-#. triplet | C'est de mentionner le groupe avec la zone concerné pour une periode donnée
-#. Système | L'ERP développé
+#. Serveur de contrôle --- L'ERP développé
+#. triplet --- C'est de mentionner le groupe avec la zone concerné pour une periode donnée
+#. Système --- L'ERP développé
 #. CyberBatiment | L'ERP développé
-#. Periode | Duré d'une [épreuve] des JO
+#. Periode --- Duré d'une [épreuve] des JO
 
 Questions et Hypothèses
 -----------------------
