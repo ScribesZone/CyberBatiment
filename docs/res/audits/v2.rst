@@ -34,8 +34,7 @@ Lexique
 * badgeur : un [badgeur] est défini par son nom, son prénom et un [NIN]
 * Alerte : Alerte système à destination d'un [gardien] en charge de la [zone] concerné.
 * Bissas : [Sas] d'entrée ou de sorties utilisées dans le système
-* Gardien : Personne chargé du bon fonctionnement des [sas] et de la sécurité au sein de la
-[zone].
+* Gardien : Personne chargé du bon fonctionnement des [sas] et de la sécurité au sein de la [zone].
 * Evenement : Un [Evenement] suite à un non respect des règlements definies par [CyberBatiment].
 * Autorisation : Un ou plusieurs [groupe](s) qui ont des [droit d'accès] précis
 * Administrateur: Personne qui gère [CyberBatiment] et donne des droits d'accès au [GroupeDeBadgeur] .
