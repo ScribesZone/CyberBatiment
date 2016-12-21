@@ -1,7 +1,7 @@
 CR004
 =====
 
-:Date: 2016-01-15-07h-20h
+:Date: 03-15-07h-20h
 :Type: Réunion
 :PartiesPrenantes: KWG, CMS, YBI, MPA, ZSH
 :Lieu: Berlin-Bissis
@@ -33,7 +33,7 @@ CR004
 #. Toutes les parties logicielles sur le serveur applicatif pourront être réalisées en amont grâce à la simulation des bissas et des caméras pilotés par les drivers à installer sur le serveur de contrôle.
 #. Batemis, qui travaille depuis longtemps avec Bissis, est confiant dans cette démarche.
 #. L'utilisation d'une spécification UML a été soulignée comme un point essentiel dans ce contexte tendu.
-#. Il a été convenu que l'IM2AG fournirait rapidement des scénarios qui serviront à écrire les tests de la version Nílton-Santo de Cyberbatiment.
+#. Il a été convenu que l'IM2AG fournirait rapidement des scénarios qui serviront à écrire les tests de la version Morrocoy.
 #. Il s'agit non seulement de tester les scénarios de passage sans incident, mais aussi les scénarios générant des alarmes envoyées aux gardiens.
 #. En ce qui concerne les fonctionnalités des bissas, Bissis a proposé une illustration via l'étude d'un système proposé par un de ses concurrents.
 #. Les bissas ressembleront *par certains côtés* au système "Cilindro Bibussola" de AllUserIndustrie_:
@@ -48,7 +48,7 @@ CR004
 #. Le Bibussola n'est là qu'à titre d'illustration; les bissas ont de nombreuses différences.
 #. Des groupes de 2 à 16 bissas peuvent être alignés par point d'accès.
 #. Le matériel est extrêmement performant (à condition que les contrôles logiciels suivent).
-#. Ceci permet des flux important à un même point d'accès (jusqu'à 100 passages/mn).
+#. Ceci permet des flux importants à un même point d'accès (jusqu'à 100 passages/mn).
 #. Les bissas sont symétriques (mais possèdent une face A et B orientée de manière arbitraire à l'assemblage).
 #. Ils possèdent systématiquement des lecteurs sur les deux faces (contrairement aux Bibussolas).
 #. Ils peuvent ainsi contrôler à la fois l’entrée et la sortie.
@@ -81,7 +81,7 @@ CR004
 #. Chaque bissas sera connecté au panneau de brassage du serveur de contrôle par une connexion RFC 821
 #. Batemis propose deux types de bissas, les bissas Astra et les bissas Xtra.
 #. Les bissas Astra sont destinés à recevoir un public important.
-#. C'est pour cela que Batemis préconise leur utilisation sur Nílton-Santos.
+#. C'est pour cela que Batemis préconise leur utilisation au stade de Londres.
 #. Les bisas Xtra sont écartés car leur débit est insuffisant.
 #. Les bissas Astra permettent entre autres d'organiser des files d'attentes uniques par point d'accès.
 #. Ils sont munis d'un feu visible depuis la file indiquant l'état du bissas
@@ -94,6 +94,7 @@ CR004
 #. C'est le cas par exemple si un badgeur ne sort pas du sas au bout de 8 secondes.
 #. C'est également le cas si quelqu'un bloque la porte avec un pied, etc.
 #. Batemis propose aussi des bissas haute sécurité, les bissas Xtra.
+#. Ces bissas sont préconisés par Batemis pour l'usine de Morrocoy.
 #. Ils permettent d'être sûr (à 98%) que le badgeur est bien la personne associée au badge.
 #. La personne ne peut en effet sortir du sas qu'après avoir effectué une identification physique.
 #. Cette identification physique se fait à l'intérieur du sas, après l'identification badge à l'entrée.
@@ -110,8 +111,8 @@ CR004
 #. Bissis propose également d'autres éléments matériels pour la sécurité.
 #. Des caméras directionnelles C800 pourront être installées comme option de l’ERP CyberBatiment.
 #. Les gardiens devront pouvoir à tout moment les réorienter à distance.
-#. Les plans de sécurité proposés par Batemis pour Morrocoy et Nílton-Santos sont déjà basés sur l'utilisation de ce matériel.
-#. Cependant pour des raisons de délai, les caméras ne seront pas connectées à CyberBatiment pour Nílton-Santos
+#. Les plans de sécurité proposés par Batemis pour Morrocoy et Londres sont déjà basés sur l'utilisation de ce matériel.
+#. Cependant pour des raisons de délai, les caméras ne seront pas connectées à CyberBatiment pour Morrocoy
 #. Les bissas doivent être reliés au serveur de contrôle du site via des liaisons "RFC 321"; les caméras via des liaisons "RFC 821".
 #. Le matériel et les protocoles associés sont en cours d'être brevetés par Bissis.
 #. Il doit y avoir une salle de contrôle par site; elle contient le serveur de contrôle.
@@ -122,7 +123,7 @@ CR004
 #. De plus, le matériel n'étant pas disponible à ce jour, il est essentiel de préparer les scénarios à prendre en compte et de les spécifier de manière rigoureuse.
 #. Bissis fournira des simulateurs matériels pilotables par le driver fourni.
 #. Dans un premier temps des tests seront ainsi effectués à partir des scénarios fournis par IM2AG.
-#. Une réunion est prévue (2016-01-18) pour discuter des points non abordés jusque là et notamment de l'architecture de déploiement.
+#. Une réunion est prévue (03-18) pour discuter des points non abordés jusque là et notamment de l'architecture de déploiement.
 
 
 .. ............................................................................
