@@ -47,7 +47,7 @@ CR005
 #. En cas d’incident d'incendie, le gardien peut déverrouiller un ou plusieurs bissas dans le sens de la sortie.
 #. Quand le bissas est dévérouillé, la simple détection d’une personne ouvre le bissas, qui est refermé une fois qu’elle est passée.
 #. En situation de crise, le temps de réaction des gardiens peut devenir essentiel.
-#. Pour améliorer la rapidité d’intervention des gardiens, L’ERP CyberBatiement fournira à terme un paramétrage avec des types d'incidents prédéfinis.
+#. Pour améliorer la rapidité d’intervention des gardiens, L’ERP CyberBatiment fournira à terme un paramétrage avec des types d'incidents prédéfinis.
 #. C'est le rôle des superviseurs de les définir et cela se fait généralement lors de la définition du plan sécurité initial en fonction des caractéristiques du site.
 #. Assez souvent on découvre par la suite de nouveaux types liés à des situations répétitives(e.g. "tuyau percé" dans une usine, "malaise dans un bissas" dans un hopital, "cartable coincé dans un bissas" dans une école, etc.).
 #. Les gardiens peuvent alors sélectionner  nécessaires lors de scénarios types.
