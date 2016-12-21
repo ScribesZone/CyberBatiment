@@ -60,7 +60,7 @@ CR001
 #. Pour initialiser le développement de l’ERP CyberBatiment, il a été décidé de développer une première version pour l'usine Chimiotis à Morrocoy (Venezuala), qui requiert les fonctionnalités les plus courantes,
 #. Il est entendu par toutes les parties prenantes que le système spécifique développé pour Moroccoy sera ensuite généralisé pour développer l'ERP, en rendant certains éléments paramètrables.
 #. La conception de la version Morrocoy de Cyberbatiment a été confiée à l’IM2AG  
-#. La prochaine réunion aura lieu à Rio en présence de Competis.
+#. La prochaine réunion aura lieu à Morrocoy en présence de Competis.
 #. En conclusion, il a été observé que ce consortium international ne pourrait fonctionner qui si toutes les parties prenantes parviennent à participer et à mettre en oeuvre leur savoir-faire.
 #. Les différentes parties prenantes sont toutes conscientes des opportunités commerciales apportées par ce nouveau contexte sécuritaire.
 #. Seul un ERP comme CyberBatiment pourra répondre rapidement à l'étendue des besoins à venir.
