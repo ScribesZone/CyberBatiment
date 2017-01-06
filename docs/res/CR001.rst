@@ -37,11 +37,9 @@ CR001
 #. L'équipe informatique de Batemis est assez limitée actuellement.
 #. La conception de CyberBatiment a donc été confiée à l'UFR IM2AG.
 #. Un certain nombre de contraintes techniques ont été déjà mentionnées : 
-#. - le serveur de contrôle devra être développé impérativement en JAVA
-#. - les autres parties devront être développées en Python 3.5.
+#. - les développements devront se faire en Python 3.5.
 #. - le framework Django sera utilisé pour tous les serveurs web.
 #. Le choix de Python/Django est lié au fait que Batemis utilise déjà ces technologies en interne.
-#. JAVA est le langage usuel de programmation des contrôleurs chez BATEMIS.
 #. Pour le matériel de sécurité, Batemis a passé un accord avec Bissis.
 #. Bissis est un constructeur proposant du matériel à la pointe de l'innovation.
 #. En particulier Batemis a décidé de se baser des bissas (sas à deux portes) pour toutes ses offres.
