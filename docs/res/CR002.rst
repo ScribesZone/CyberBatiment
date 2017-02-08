@@ -60,19 +60,18 @@ CR002
 #. Les gardiens peuvent aller dans toutes les zones dont la salle de contrôle.
 #. Ils peuvent depuis leur smartphone débloquer l’accès ou la sortie d’une personne bloquée suite à un incident.
 #. Même si différents groupes de badgeurs ont été identifiés, d'autres pourraient apparaître.
-#. Il doit être possible pour le superviseur de créer de nouveaux groupes.
-#. Par contre chaque groupe sera géré par un administrateur et pas par le superviseur.
-#. Par exemple les administrateurs des sportifs pourront éditer leurs badges.
+#. Un superviseur unique par site pourra créer des administrateurs pour ces groupes. Il leur donnera des droits sur la gestion d'une ou plusieurs zones.
+#. Chaque groupe sera alors créé et géré par un administrateur et pas par le superviseur.
+#. Par exemple les administrateurs des sportifs pourront éditer leurs badges et définir les zones auxquelles ils ont accès et à quels moments. 
 #. Les administrateurs de presse s'occuperont des badges des journalistes, etc.
+#. Bien entendu les administrateurs de groupe ne pourront pas donner à une groupe l'accès à des zones dont il n'est pas chargé. 
 #. Les badges papiers pour les spectateurs seront émis par un système en ligne.
 #. Dans une telle compétition, on attend en effet environ 100 000 spectateurs.
 #. Plus de 400 000 billets seront sans doute émis (mais par forcément utilisés).
 #. Le système en ligne CyberCompetition (par Competis) sera en charge de l'émission des billets.
 #. Pour les spectateurs les badges prendront la forme de QR codes sur leurs billets papiers (cf CR002Fig2_)
-#. De façon générale des logiciels externes (e.g. CyberCompetition) devront pouvoir gérer les membres d’un groupe,
-   comme ajouter des spectateurs à des compétitions pour lesquels des billets ont été émis par l’ERP CyberCompetition.
-#. Pour la transmission par un logiciel à CyberBatiment des informations de gestion d’un groupe,
-   seules certaines informations seront nécessaires
+#. De façon générale des logiciels externes (e.g. CyberCompetition) devront pouvoir gérer les membres d’un groupe, comme ajouter des spectateurs à des compétitions pour lesquels des billets ont été émis par l’ERP CyberCompetition.
+#. Pour la transmission par un logiciel à CyberBatiment des informations de gestion d’un groupe, seules certaines informations seront nécessaires
 #. Il a été convenu qu'un format XML soit utilisé dans ce cadre.
 #. Le fichier d’exemple ci-dessous a été fourni par Competis.
 
