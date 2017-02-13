@@ -85,7 +85,7 @@ CR003
         +-----+---------+----------------------------------+-------+
         |  A2 | GX      | xxMAxxxxxxxx xxxxxSD 23:00-05:00 | X     |
         |     |         |                                  |       |
-        |     |         | 17/02 - 18/02              |       |
+        |     |         | 17/02 - 18/02                    |       |
         +-----+---------+----------------------------------+-------+
 
 #. Les autorisations sous forme de triplets pourraient aussi convenir a priori pour le stade de Londres en 217.
