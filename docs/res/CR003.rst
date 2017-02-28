@@ -60,15 +60,10 @@ CR003
 #. Ces groupes ne sont pas représentés sur le planning annuel montré en CR003Fig2_.
 #. Ce planning est représentatif de ce qui se passe chaque année.
 #. Les groupes du planning annuel sont homogènes par rapport aux zones autorisées.
-#. Autrement dit, pour une période un groupe peut accéder toujours aux mêmes zones (cf CR003Fig2_)
-   indépendamment de la période.
-#. En réalité, et selon un exemple donné par ELL, certains groupes (e.g. GX et GY) peuvent accéder à la zone PT et PO
-   en semaine de 22h à 6h pendant l'été.
-#. Mais de plus GX peut en plus accéder à la zone X et DM le week-end de 23h à 5h de mars à avril, et sans doute
-   le 17 et 18 février à n'importe quelle heure.
-#. Actuellement tous ces différents cas sont gérés de manière ad-hoc par les gardiens en poste aux points d'accès
-   de chaque zone.
-   de chaque zone.
+#. Autrement dit, pour une période un groupe peut accéder toujours aux mêmes zones (cf CR003Fig2_) indépendamment de la période.
+#. En réalité, et selon un exemple donné par ELL, certains groupes (e.g. GX et GY) peuvent accéder à la zone PT et PO en semaine de 22h à 6h pendant l'été.
+#. Mais de plus GX peut en plus accéder à la zone X et DM le week-end de 23h à 5h de mars à avril, et sans doute le 17 et 18 février à n'importe quelle heure.
+#. Actuellement tous ces différents cas sont gérés de manière ad-hoc par les gardiens en poste aux points d'accès de chaque zone.
 #. En pratique cette gestion est un peu aléatoire et se base sur le bon-vouloir des gardiens et des employés.
 #. Il faudra absolument définir des autorisations plus fines dans CyberBatiment pour représenter ce genre de périodes.
 #. Une autorisation doit être un triplet (groupe(s), période(s), zone(s)).
@@ -81,11 +76,15 @@ CR003
         +-----+---------+----------------------------------+-------+
         |     | Groupes |               Périodes           | Zones |
         +=====+=========+==================================+=======+
-        |  A1 | GX,GY   | xxxxxxJASxxx LMMJVxx 22:00-06:00 | PT,PO |
+        |  A1 | GX, GY   | xxxxxxJASxxx LMMJVxx 22:00-06:00 | PT,PO |
         +-----+---------+----------------------------------+-------+
         |  A2 | GX      | xxMAxxxxxxxx xxxxxSD 23:00-05:00 | X     |
         |     |         |                                  |       |
+<<<<<<< Updated upstream
         |     |         | 17/02 - 18/02                    |       |
+=======
+        |     |         | 17/03 - 18/04              |       |
+>>>>>>> Stashed changes
         +-----+---------+----------------------------------+-------+
 
 #. Les autorisations sous forme de triplets pourraient aussi convenir a priori pour le stade de Londres en 217.
