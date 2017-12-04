@@ -29,36 +29,29 @@ CR001
 #. Les demandes de sécurisation de sites et de bâtiments se développent suites aux attentats des dernières années. Il s'agit d'une opportunité commerciale pour les sociétés de sécurité comme Batemis.
 #. La société Batemis est spécialisée dans les systèmes de contrôle d’accès.
 #. Batemis ne produit pas les équipements de sécurité, mais les assemble et les installe.
-#. Jusqu’à présent les logiciels contrôlant ces équipements étaient développés par BATEMIS à la demande pour chaque site.
-#. Batemis désire désormais se doter d’un ERP appelé CyberBatiment qui puisse se déployer sur différents types de sites, des usines, des lieux de cultes, des hôpitaux, des sites sportifs, des complexes commerciaux, des cités scolaires,
-#. Jusqu'à présent tout se faisait au cas par cas, y compris le développement/adaptation des logiciels.
-#. Ce modèle n’est plus viable vu la croissance exponentielle de Batemis.
-#. Batemis doit généraliser son offre pour pouvoir sécuriser plus de sites.
-#. L'équipe informatique de Batemis est assez limitée actuellement.
-#. La conception de CyberBatiment a donc été confiée à l'UFR IM2AG.
+#. Les logiciels contrôlant ces équipements sont développés par BATEMIS à la demande pour chaque site.
+#. L'équipe informatique de Batemis est assez limitée actuellement. 
+#. Avec l'augmentation de la demande, Batemis doit faire appel à des prestataires extérieurs pour répondre à ses clients.
+#. La conception de certaines versions de CyberBatiment seront donc confiées à l'UFR IM2AG.
 #. Un certain nombre de contraintes techniques ont été déjà mentionnées : 
-#. - les développements devront se faire en Python 3.5.
-#. - le framework Django sera utilisé pour tous les serveurs web.
-#. Le choix de Python/Django est lié au fait que Batemis utilise déjà ces technologies en interne.
+#. - les développements devront se faire en Python 3.6 avec le framework Flask.
+#. Le choix de Python/Flask est lié au fait que Batemis utilise déjà ces technologies en interne.
 #. Pour le matériel de sécurité, Batemis a passé un accord avec Bissis.
 #. Bissis est un constructeur proposant du matériel à la pointe de l'innovation.
 #. En particulier Batemis a décidé de se baser des bissas (sas à deux portes) pour toutes ses offres.
 #. Batemis et Bissis ont passé un accord pour mettre sur le marché des bissas le plus rapidement possible.
 #. Bissis sera donc partie prenante pour le projet et fournira les bissas, avec leurs drivers.
 #. Une prochaine réunion aura lieu dans les locaux de Bissis à Berlin pour étudier les bissas.
-#. Différents organismes ont déjà contacté Batemis pour la mise en place de CyberBatiment.
-#. l'IAAF (International Association of Athletics Federations) désire sécuriser le stade Olympique de Londres pour les championnats du monde de 2017.
+#. Différents organisations ont déjà contacté Batemis pour la mise en place de CyberBatiment.
+#. l'IAAF (International Association of Athletics Federations) désire sécuriser le Khalifa International Stadium pour les championnats du monde de 2019.
 #. Les sites des jeux olympique d'hiver à Pyeongchang en Corée du Sud doivent également être sécurisées pour 2018.
-#. Plusieurs universités indiennes voudraient également migrer vers CyberBatiment en 2017.
+#. Plusieurs universités indiennes voudraient également migrer vers CyberBatiment en 2018.
 #. Les commerciaux de Batemis prévoient une augmentation exponentielle des demandes au prochain trimestre.
-#. CyberBatiment sera conçu et développé de façon incrémentale, en commençant par les fonctionnalités les plus demandées par les clients.
+#. Chaque version de CyberBatiment sera conçue et développée de façon incrémentale, en commençant par les fonctionnalités les plus demandées par les clients.
 #. Batemis a décidé d'imposer l'utilisation d'UML pour la conception de ce projet (et d'autres projets).
 #. Plus particulièrement un accord a été passé avec ModelioSoft-Paris pour des licences Modelio.
 #. Batemis utilisera une démarche agile pour s'assurer de l'adéquation du système avec les besoins des sites.
-#. Pour initialiser le développement de l’ERP CyberBatiment, il a été décidé de développer une première version pour l'usine Chimiotis à Morrocoy (Venezuela), qui requiert les fonctionnalités les plus courantes,
-#. Il est entendu par toutes les parties prenantes que le système spécifique développé pour Moroccoy sera ensuite généralisé pour développer l'ERP, en rendant certains éléments paramètrables.
-#. La conception de la version Morrocoy de Cyberbatiment a été confiée à l’IM2AG  
+#. La conception de la version de Cyberbatiment pour le Khalifa International Stadium a été confiée à l’IM2AG
 #. La prochaine réunion aura lieu à Londres en présence de Competis.
 #. En conclusion, il a été observé que ce consortium international ne pourrait fonctionner qui si toutes les parties prenantes parviennent à participer et à mettre en oeuvre leur savoir-faire.
 #. Les différentes parties prenantes sont toutes conscientes des opportunités commerciales apportées par ce nouveau contexte sécuritaire.
-#. Seul un ERP comme CyberBatiment pourra répondre rapidement à l'étendue des besoins à venir.
