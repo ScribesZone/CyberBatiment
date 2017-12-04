@@ -25,7 +25,7 @@ CR001
 #.  - Zork SWISH (ZSH) – Batemis, Autriche
 #.  - Cassandra COHEN (CCN) - IM2AG, Grenoble
 #. .  . . . . . . . . . . . . . . . . .
-#. Le présent projet a été baptisé CyberBatiment du fond.
+#. Le présent projet a été baptisé CyberBatiment.
 #. Les demandes de sécurisation de sites et de bâtiments se développent suites aux attentats des dernières années. Il s'agit d'une opportunité commerciale pour les sociétés de sécurité comme Batemis.
 #. La société Batemis est spécialisée dans les systèmes de contrôle d’accès.
 #. Batemis ne produit pas les équipements de sécurité, mais les assemble et les installe.
