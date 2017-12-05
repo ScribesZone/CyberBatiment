@@ -1,4 +1,4 @@
-CyberBatiment
+iAccess
 =============
 
 Ce cas d'étude correspond à un système de contrôle des batiments et des zones sensibles.
