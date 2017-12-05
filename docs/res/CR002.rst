@@ -8,7 +8,7 @@ CR002 Réunion iAcces pour Doha
 :Organisateur: ABI
 :Rapporteur: KWG
 :Presents: ABI, JDR, PSO, AGO
-:Objectifs: Systèmes à implanter à Doha pour le Khalifa International Stadium
+:Objectifs: Attentes pour le Khalifa International Stadium de Doha
 
 .. attention::
     Ce compte rendu est un *document de travail* et n'est pas contractuel.

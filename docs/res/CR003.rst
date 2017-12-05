@@ -1,4 +1,4 @@
-CR003
+CR003 Réunion iAcces pour Chimiotis
 =====
 
 :Date: 02-17 15h-23h
@@ -19,7 +19,7 @@ CR003
 
 #. Grâce aux contacts d'AGO, une visite du site chimique de Morrocoy a été organisée opportunément.
 #. Chimiotis, la société gérante désire s’équiper de bisass pour son système d’accès sécurisé.
-#. Il s'agit donc d'un prospect chaud pour CyberBatiment.
+#. Il s'agit donc d'un prospect chaud pour iAccess.
 #. Un premier plan sécurité a été créé à partir des informations fournies par Chimiotis.
 
     .. _CR003Fig1:
@@ -29,15 +29,15 @@ CR003
 
         Fig. 1 : Potentiel plan sécurité pour le site de Morrocoy
 
-#. Contrairement au stade de Londres, le site Morrocoy n'est pas temporaire.
+#. Contrairement au stade de Doha, le site Morrocoy n'est pas temporaire.
 #. Un élément important concerne les règles à appliquer en cas d'incendie dans une zone.
 #. Tous les points d'accès doivent être ouverts automatiquement vers l’extérieur dans
    les zones dites "Incendie Libre" (IL).
 #. Dans les autres zones, un incident est envoyé à tous les gardiens.
 #. Chaque gardien signale qu'il a bien reçu l'incident et peut ensuite consulter si des personnes sont présentes dans la zone et débloquer tel ou tel point d'accès.
-#. Il faudra donc prendre en compte les systèmes à incendie et les interfacer avec CyberBatiment.
-#. Renseignement pris auprès de AGO, il n'existe que 4 zones IL dans le stade de Londres : les tribunes.
-#. Par ailleurs à première vue le nombre de groupes est a priori plus faible à Morrocoy qu'à Londres.
+#. Il faudra donc prendre en compte les systèmes à incendie et les interfacer avec iAccess.
+#. Renseignement pris auprès de AGO, il n'existe que 4 zones IL dans le stade de Doha : les tribunes.
+#. Par ailleurs à première vue le nombre de groupes est a priori plus faible à Morrocoy qu'à Doha.
 #. Le nombre de badgeurs par groupe va de 1 à 300 environ.
 #. Les ouvriers font les 3 x 8 mais de manière relativement régulière.
 #. Les membres de chaque groupe sont finalement assez stables.
@@ -65,7 +65,7 @@ CR003
 #. Mais de plus GX peut en plus accéder à la zone X et DM le week-end de 23h à 5h de mars à avril, et sans doute le 17 et 18 février à n'importe quelle heure.
 #. Actuellement tous ces différents cas sont gérés de manière ad-hoc par les gardiens en poste aux points d'accès de chaque zone.
 #. En pratique cette gestion est un peu aléatoire et se base sur le bon-vouloir des gardiens et des employés.
-#. Il faudra absolument définir des autorisations plus fines dans CyberBatiment pour représenter ce genre de périodes.
+#. Il faudra absolument définir des autorisations plus fines dans iAccess pour représenter ce genre de périodes.
 #. Une autorisation doit être un triplet (groupe(s), période(s), zone(s)).
 #. Par exemple, en reprenant l'exemple donné par ELL, on doit pouvoir définir deux autorisations comme suit.
 
@@ -83,13 +83,13 @@ CR003
         |     |         | 17/02 - 18/02                    |       |
         +-----+---------+----------------------------------+-------+
 
-#. Les autorisations sous forme de triplets pourraient aussi convenir a priori pour le stade de Londres en 217.
+#. Les autorisations sous forme de triplets pourraient aussi convenir a priori pour le stade de Doha en 217.
 #. Il s'agit en effet d'une représentation générale et sans doute satisfaisante.
-#. Il a été décidé de partir a priori sur ce modèle d'autorisation pour CyberBatiment.
+#. Il a été décidé de partir a priori sur ce modèle d'autorisation pour iAccess.
 #. Dans le cas de Morrocoy, il semble qu'un seul administrateur pourrait gérer tous les groupes.
-#. Cela contraste avec le site de Londres où plusieurs administrateurs devront gérer des groupes différents et inversement ou un même groupe pourra être géré par des administrateurs différents.
+#. Cela contraste avec le site de Doha où plusieurs administrateurs devront gérer des groupes différents et inversement ou un même groupe pourra être géré par des administrateurs différents.
 #. Actuellement l'usine est gardée par 60 gardiens, 24/24.
-#. Avec CyberBatiment on estime que 4 gardiens seraient suffisant, d'où 12 en 3x8.
+#. Avec iAccess on estime que 4 gardiens seraient suffisant, d'où 12 en 3x8.
 #. Comme pour les autres sites, le serveur de contrôle serait installé dans la salle de contrôle.
 #. Chemiotis émet également le besoin de pouvoir recevoir des visiteurs via des badges courts.
 #. Dans ce cas les badges courts pourraient être distribués en direct à la réception et utilisé immédiatement.
@@ -97,11 +97,12 @@ CR003
 #. Il s'agit simplement d'un coup de téléphone donné aux gardiens, ce qui n'est évidemment sécurisé.
 #. Chemiotis souhaiterait par contre pouvoir disposer de l'historique d'accès.
 #. Chemiotis voudrait contrôler les heures de présences dans l'usine des employés.
-#. La conservation de l'historique des événements étant imposée par la réglementation du Venezuela, cette fonctionnalité devra être intégrée dans CyberBatiment.
-#. Un web service permettra à des systèmes externes (e.g. systèmes de paye / de contrôle de présence) d'importer les événements d'accès de Cyberbatiment (horaire d'entrée pour chaque point d'accès).
+#. La conservation de l'historique des événements étant imposée par la réglementation du Venezuela, cette fonctionnalité devra être intégrée dans iAccess.
+#. Un web service permettra à des systèmes externes (e.g. systèmes de paye / de contrôle de présence) d'importer les événements d'accès de iAccess (horaire d'entrée pour chaque point d'accès).
 #. Ce web service devra être sécurisé pour des aspects de confidentialité mais aussi de sécurité(e.g. heures d'accès des gardiens, etc).
-#. Le service web d'import sera utilisé entre autre par les services commerciaux pour déterminer les billets vendus n'ayant pas été utilisés.
-#. Après discussion avec Competis, l'historique d'accès sera également nécessaire pour Londres vu le contexte d’attentats.
-#. En conclusion, les besoins du site de Morrocoy sont tout à fait pertinents pour CyberBatiment.
-#. Batemis confirme donc sa décision de le prendre pour définir une première version de CyberBatiment.
+#. A Doha, le service web d'export sera utilisé entre autres par les services commerciaux pour déterminer les billets vendus n'ayant pas été utilisés.
+#. Après discussion avec Competis, l'historique d'accès sera également nécessaire pour Doha vu le contexte d’attentats.
+#. En conclusion, les besoins du site de Morrocoy sont tout à fait pertinents pour iAccess.
+#. Batemis confirme son intérêt de développer une version de iAccess pour ce site.
+#. Cette version ne sera pas développée par l'IM2AG.
 #. La prochaine réunion aura lieu comme prévu à Berlin - Bissis.
