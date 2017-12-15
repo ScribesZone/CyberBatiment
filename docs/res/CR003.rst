@@ -36,7 +36,7 @@ CR003 Réunion iAcces pour Chimiotis
 #. Dans les autres zones, un incident est envoyé à tous les gardiens.
 #. Chaque gardien signale qu'il a bien reçu l'incident et peut ensuite consulter si des personnes sont présentes dans la zone et débloquer tel ou tel point d'accès.
 #. Il faudra donc prendre en compte les systèmes à incendie et les interfacer avec iAccess.
-#. Renseignement pris auprès de AGO, il n'existe que 4 zones IL dans le stade de Doha : les tribunes.
+#. Renseignement pris auprès de AGO, il n'existe que 2 zones IL dans le stade de Doha : les tribunes.
 #. Par ailleurs à première vue le nombre de groupes est a priori plus faible à Morrocoy qu'à Doha.
 #. Le nombre de badgeurs par groupe va de 1 à 300 environ.
 #. Les ouvriers font les 3 x 8 mais de manière relativement régulière.
@@ -60,7 +60,7 @@ CR003 Réunion iAcces pour Chimiotis
 #. Ces groupes ne sont pas représentés sur le planning annuel montré en CR003Fig2_.
 #. Ce planning est représentatif de ce qui se passe chaque année.
 #. Les groupes du planning annuel sont homogènes par rapport aux zones autorisées.
-#. Autrement dit, pour une période un groupe peut accéder toujours aux mêmes zones (cf CR003Fig2_) indépendamment de la période.
+#. Autrement dit, pour une période un groupe peut accéder toujours aux mêmes zones (cf CR003Fig2_).
 #. En réalité, et selon un exemple donné par ELL, certains groupes (e.g. GX et GY) peuvent accéder à la zone PT et PO en semaine de 22h à 6h pendant l'été.
 #. Mais de plus GX peut en plus accéder à la zone X et DM le week-end de 23h à 5h de mars à avril, et sans doute le 17 et 18 février à n'importe quelle heure.
 #. Actuellement tous ces différents cas sont gérés de manière ad-hoc par les gardiens en poste aux points d'accès de chaque zone.

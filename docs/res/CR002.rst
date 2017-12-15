@@ -84,4 +84,4 @@ CR002 Réunion iAcces pour Doha
 
 #. La transmission des données entre CyberCompetition et iAccess devra se faire via un web service sécurisé.
 #. En conclusion, la visite sur le site du stade olympique de Doha a été très instructive.
-#. Il correspond bien aux fonctionnalités de base que devra permettre l’ERP iAccess à terme.
+#. Il correspond bien aux fonctionnalités de base que devra permettre iAccess à terme.
