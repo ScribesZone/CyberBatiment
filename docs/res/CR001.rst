@@ -24,7 +24,7 @@ CR001 Réunion de lancement de iAccess
 #.  - Tararya NARAMANATA (TNA) – Batemis, Nantes
 #.  - Zork SWISH (ZSH) – Batemis, Autriche
 #.  - Cassandra COHEN (CCN) - IM2AG, Grenoble
-#.  
+#. . 
 #. Le présent projet a été baptisé iAccess.
 #. Les demandes de sécurisation de sites et de bâtiments se développent suites aux attentats des dernières années. Il s'agit d'une opportunité commerciale pour les sociétés de sécurité comme Batemis.
 #. La société Batemis est spécialisée dans les systèmes de contrôle d’accès.
@@ -32,7 +32,7 @@ CR001 Réunion de lancement de iAccess
 #. Les logiciels contrôlant ces équipements sont développés par BATEMIS à la demande pour chaque site.
 #. L'équipe informatique de Batemis est assez limitée actuellement. 
 #. Avec l'augmentation de la demande, Batemis doit faire appel à des prestataires extérieurs pour répondre à ses clients.
-#. La conception de certaines versions de iAccess seront donc confiées à l'UFR IM2AG.
+#. La conception de certaines versions de iAccess sera donc confiée à l'UFR IM2AG.
 #. Un certain nombre de contraintes techniques ont été déjà mentionnées : 
 #. - les développements devront se faire en Python 3.6 avec le framework Flask.
 #. Le choix de Python/Flask est lié au fait que Batemis utilise déjà ces technologies en interne.
