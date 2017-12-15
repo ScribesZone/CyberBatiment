@@ -1,14 +1,14 @@
 CR001 Réunion de lancement de iAccess
 =====
 
-:Date: 02-01 08h-10h
-:Type: Réunion
-:Lieu: Grenoble-Batemis
-:PartiesPrenantes: ABI, JDR, KWG, MPA, PSO, TNA, ZSH
-:Organisateur: ABI
-:Rapporteur: KWG
-:Presents: ABI, JDR, KWG, MPA, PSO, TNA, ZSH
-:Objectifs: Présentation des parties prenantes, grands objectifs
+:Date : 02-01 08h-10h
+:Type : Réunion
+:Lieu : Grenoble-Batemis
+:PartiesPrenantes : ABI, JDR, KWG, MPA, PSO, TNA, ZSH
+:Organisateur : ABI
+:Rapporteur : KWG
+:Presents : ABI, JDR, KWG, MPA, PSO, TNA, ZSH
+:Objectifs : Présentation des parties prenantes, grands objectifs
 
 ..  attention::
 
@@ -24,7 +24,7 @@ CR001 Réunion de lancement de iAccess
 #.  - Tararya NARAMANATA (TNA) – Batemis, Nantes
 #.  - Zork SWISH (ZSH) – Batemis, Autriche
 #.  - Cassandra COHEN (CCN) - IM2AG, Grenoble
-#. . 
+#. ------------------------------------------- 
 #. Le présent projet a été baptisé iAccess.
 #. Les demandes de sécurisation de sites et de bâtiments se développent suites aux attentats des dernières années. Il s'agit d'une opportunité commerciale pour les sociétés de sécurité comme Batemis.
 #. La société Batemis est spécialisée dans les systèmes de contrôle d’accès.
