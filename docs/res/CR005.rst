@@ -14,7 +14,7 @@ CR005 Architecture et contraintes techniques
     Ce compte rendu est un *document de travail* et n'est pas contractuel.
 
 #. Batemis rappelle l'architecture classique des applications déjà mises en place par leur soin.
-#. Il n'y a priori aucune raison de changer d'architecture sachant qu'elle fonctionne bien dans différents contextes.
+#. Il n'y a aucune raison a priori de changer d'architecture sachant qu'elle fonctionne bien dans différents contextes.
 #. Les matériels sécurité (bissas, caméras, etc.) sont toujours connectés directement au serveur de contrôle.
 #. Ce serveur permet de gérer en quasi temps réel les matériels à partir de leur driver
 #. Le serveur d'applications doit être plus ou moins puissant selon le volume de données à gérer et le nombre de transactions à mettre en oeuvre.
@@ -23,7 +23,7 @@ CR005 Architecture et contraintes techniques
 #. Contrairement aux architectures traditionnelles, il n’y aura pas de poste fixe pour les gardiens.
 #. Les gardiens seront équipés de phablettes (smartphones entre 5 et 7 pouces de diagonale) sous Android pour gérer les incidents.
 #. C'est un grand changement car jusque là des appareils spécialisés ou des postes fixes étaient utilisés.
-#. Les applis des smartphones gardiens seront connectés au serveur applicatif via une connexion sécuriséée https et un réseau wifi interne sécurisé.
+#. Les applis des smartphones gardiens seront connectés au serveur applicatif via une connexion sécurisée https et un réseau wifi interne sécurisé.
 #. Batemis mentionne qu'il est possible d'installer des systèmes de brouillage et bien d'autres choses, qui rendent ce réseau à la fois sûr et fiable.
 
     .. _CR005Fig2:
@@ -45,7 +45,7 @@ CR005 Architecture et contraintes techniques
 #. Pour améliorer la rapidité d’intervention des gardiens, iAccess fournira dans une seconde version un paramétrage avec des types d'incidents prédéfinis.
 #. C'est le rôle des superviseurs de les définir et cela se fait généralement lors de la définition du plan sécurité initial en fonction des caractéristiques du site.
 #. Assez souvent on découvre par la suite de nouveaux types liés à des situations répétitives (e.g. "tuyau percé" dans une usine, "malaise dans un bissas" dans un hôpital, "cartable coincé dans un bissas" dans une école, etc.).
-#. Les gardiens peuvent alors sélectionner  nécessaires lors de scénarios types.
+#. Les gardiens peuvent alors sélectionner les types d'incidents correspondant à la situation.
 #. Evidemment si nécessaire les gardiens peuvent utiliser la fonction téléphone de leur smartphone pour appeler les services compétents (urgences, police, armée, etc.)
 #. La discussion sur le rôle des gardiens s'est achevée sur la conclusion suivante.
 #. L'IHM des gardiens doit être particulièrement ergonomique vu le contexte d'utilisation à la fois quotidien et potentiellement intensif.
@@ -55,7 +55,7 @@ CR005 Architecture et contraintes techniques
 #. _
 #. Les administrateurs gèrent non seulement les inscriptions des badgeurs, mais aussi les problèmes liés à la perte d'un badge.
 #. Lorsqu'un badge est perdu, volé (y compris via agression), le badgeur est tenu d'en informer immédiatement le centre de sécurité.
-#. Cela ne concerne pas les tickets avec des badges papier, qui sont gérés directement par société qui les vend.
+#. Cela ne concerne pas les tickets avec des badges papier, qui sont gérés directement par la société qui les vend.
 #. Quelque soit le type de badge, un badge est toujours associé à une seule personne à la fois et une personne ne peut posséder qu'un badge (pour un site) à un moment donné.
 #. Les badgeurs sont connus au minimum par leur nom et leur prénom et un numéro d'identité national (NIN).
 #. Le NIN utilisé dépend des personnes et des pays considérés.
