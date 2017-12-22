@@ -106,7 +106,7 @@ CR004 Matériels de contrôle d'accès
 #. L'identification des badges et surtout le calcul des autorisations lors d'un passage de badge devra toujours pouvoir être faite en moins de 2 secondes.
 #. Sachant que l'on envisage plus de 200 entrées ou sorties simultanément un soin tout particulier devra être apporté à cet aspect.
 #. Bissis propose également d'autres éléments matériels pour la sécurité.
-#. Des caméras directionnelles C800 pourront être installées comme option de l’ERP iAccess.
+#. Des caméras directionnelles C800 pourront être installées comme option d'iAccess.
 #. Les gardiens devront pouvoir à tout moment les réorienter à distance.
 #. Les plans de sécurité proposés par Batemis pour Morrocoy et Doha sont déjà basés sur l'utilisation de ce matériel.
 #. Cependant pour des raisons de délai, les caméras ne seront pas connectées à iAccess pour Doha
