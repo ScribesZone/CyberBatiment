@@ -1,4 +1,4 @@
-CR002 Réunion iAcces pour Doha
+CR002 Réunion iAcces pour KIS de Doha
 =====
 
 :Date: 2016-01-05-08h-22h
@@ -16,7 +16,7 @@ CR002 Réunion iAcces pour Doha
 
 #. Nouvel intervenant:
 #. _ Apito GUARACARUMBO (AGO) - Competis, Doha
-#. La réunion a eu lieu sur le site du Khalifa International Stadium guidé par AGO.
+#. La réunion a eu lieu sur le site du Khalifa International Stadium guidé par AGO, qu'on apellera KIS par la suite pour plus de commodité.
 #. Le site n'est actuellement pas équipé.
 #. Il devra l'être pour les championnats du monde d'athlétisme 2019 qui auront lieu en octobre.
 #. Grâce aux bissas, cette installation a été considérée comme viable par Batemis.
@@ -31,7 +31,7 @@ CR002 Réunion iAcces pour Doha
     .. figure:: media/stade.png
         :align: center
 
-        Fig. 1 : Le Khalifa International Stadium
+        Fig. 1 : Le KIS (Khalifa International Stadium)
 
 #. Les différentes zones du site ont été représentées sur le plan sécurité.
 #. Par contre les bâtiments, installations et autres espaces non sécurisés n'y sont pas.

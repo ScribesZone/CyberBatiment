@@ -109,7 +109,7 @@ CR004 Matériels de contrôle d'accès
 #. Des caméras directionnelles C800 pourront être installées comme option d'iAccess.
 #. Les gardiens devront pouvoir à tout moment les réorienter à distance.
 #. Les plans de sécurité proposés par Batemis pour Morrocoy et Doha sont déjà basés sur l'utilisation de ce matériel.
-#. Cependant pour des raisons de délai, les caméras ne seront pas connectées à iAccess pour Doha
+#. Cependant pour des raisons de délai, les caméras ne seront pas connectées à iAccess pour le KIS
 #. Les bissas doivent être reliés au serveur de contrôle du site via des liaisons "RFC 321"; les caméras via des liaisons "RFC 821".
 #. Le matériel et les protocoles associés sont en cours d'être brevetés par Bissis.
 #. Il doit y avoir une salle de contrôle par site; elle contient le serveur de contrôle.
