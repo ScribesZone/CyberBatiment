@@ -83,6 +83,7 @@ CR003 Réunion iAcces pour Chimiotis
         |     |         | 17/02 - 18/02                    |       |
         +-----+---------+----------------------------------+-------+
 
+
 #. Les autorisations sous forme de triplets pourraient aussi convenir a priori pour le stade de Doha en 2019.
 #. Il s'agit en effet d'une représentation générale et sans doute satisfaisante.
 #. Il a été décidé de partir a priori sur ce modèle d'autorisation pour iAccess.
