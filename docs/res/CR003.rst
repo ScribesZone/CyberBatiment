@@ -100,7 +100,7 @@ CR003 Réunion iAcces pour Chimiotis
 #. Chemiotis voudrait contrôler les heures de présences dans l'usine des employés.
 #. La conservation de l'historique des événements étant imposée par la réglementation du Venezuela, cette fonctionnalité devra être intégrée dans iAccess.
 #. Un web service permettra à des systèmes externes (e.g. systèmes de paye / de contrôle de présence) d'importer les événements d'accès de iAccess (horaire d'entrée pour chaque point d'accès).
-#. Ce web service devra être sécurisé pour des aspects de confidentialité mais aussi de sécurité(e.g. heures d'accès des gardiens, etc).
+#. Ce web service devra être sécurisé pour des aspects de confidentialité mais aussi de sécurité (e.g. heures d'accès des gardiens, etc).
 #. A Doha, le service web d'export sera utilisé entre autres par les services commerciaux pour déterminer les billets vendus n'ayant pas été utilisés.
 #. Après discussion avec Competis, l'historique d'accès sera également nécessaire pour Doha vu le contexte d’attentats.
 #. En conclusion, les besoins du site de Morrocoy sont tout à fait pertinents pour iAccess.
