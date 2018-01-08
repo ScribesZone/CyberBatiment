@@ -31,7 +31,7 @@ CR004 Matériels de contrôle d'accès
 #. Toutes les parties logicielles sur le serveur applicatif pourront être réalisées en amont grâce à la simulation des bissas et des caméras pilotés par les drivers à installer sur le serveur de contrôle.
 #. Batemis, qui travaille depuis longtemps avec Bissis, est confiant dans cette démarche.
 #. L'utilisation d'une spécification UML a été soulignée comme un point essentiel dans ce contexte tendu.
-#. Il a été convenu que l'IM2AG fournirait rapidement des scénarios qui serviront à écrire les tests de la version du Khalifa International Stadium.
+#. Il a été convenu que l'IM2AG fournirait rapidement des scénarios qui serviront à écrire les tests de la version du KIS.
 #. Il s'agit non seulement de tester les scénarios de passage sans incident, mais aussi les scénarios générant des alarmes envoyées aux gardiens.
 #. En ce qui concerne les fonctionnalités des bissas, Bissis a proposé une illustration via l'étude d'un système proposé par un de ses concurrents.
 #. Les bissas ressembleront *par certains côtés* au système "Cilindro Bibussola" de AllUserIndustrie_:
