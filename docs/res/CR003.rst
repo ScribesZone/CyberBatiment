@@ -93,7 +93,7 @@ CR003 Réunion iAcces pour Chimiotis
 #. Avec iAccess on estime que 4 gardiens seraient suffisant, d'où 12 en 3x8.
 #. Comme pour les autres sites, le serveur de contrôle serait installé dans la salle de contrôle.
 #. Chemiotis émet également le besoin de pouvoir recevoir des visiteurs via des badges courts.
-#. Dans ce cas les badges courts pourraient être distribués en direct à la réception et utilisé immédiatement.
+#. Dans ce cas les badges courts pourraient être distribués en direct à la réception et utilisés immédiatement.
 #. Actuellement il n'y a aucun système pour les badges courts à Morrocoy.
 #. Il s'agit simplement d'un coup de téléphone donné aux gardiens, ce qui n'est évidemment sécurisé.
 #. Chemiotis souhaiterait par contre pouvoir disposer de l'historique d'accès.
