@@ -69,20 +69,17 @@ CR003 Réunion iAcces pour Chimiotis
 #. Une autorisation doit être un triplet (groupe(s), période(s), zone(s)).
 #. Par exemple, en reprenant l'exemple donné par ELL, on doit pouvoir définir deux autorisations comme suit.
 
-    .. _CR003Tab1:
-
-    .. table:: Tab. 1 : Exemple ELL01_06
+    .. table:: Tab. 1 : Exemple ELL 01-06
 
         +-----+---------+----------------------------------+-------+
         |     | Groupes |               Périodes           | Zones |
         +=====+=========+==================================+=======+
-        |  A1 | GX, GY   | xxxxxxJASxxx LMMJVxx 22:00-06:00 | PT,PO |
+        |  A1 | GX, GY   | xxxxxxJASxxx LMMJVxx 22:00-06:00 | PT,PO|
         +-----+---------+----------------------------------+-------+
         |  A2 | GX      | xxMAxxxxxxxx xxxxxSD 23:00-05:00 | X     |
         |     |         |                                  |       |
         |     |         | 17/02 - 18/02                    |       |
         +-----+---------+----------------------------------+-------+
-
 
 #. Les autorisations sous forme de triplets pourraient aussi convenir a priori pour le stade de Doha en 2019.
 #. Il s'agit en effet d'une représentation générale et sans doute satisfaisante.
