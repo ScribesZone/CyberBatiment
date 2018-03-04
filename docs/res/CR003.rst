@@ -92,7 +92,7 @@ CR003 Réunion iAcces pour Chimiotis
 #. Chemiotis émet également le besoin de pouvoir recevoir des visiteurs via des badges courts.
 #. Dans ce cas les badges courts pourraient être distribués en direct à la réception et utilisés immédiatement.
 #. Actuellement il n'y a aucun système pour les badges courts à Morrocoy.
-#. Il s'agit simplement d'un coup de téléphone donné aux gardiens, ce qui n'est évidemment sécurisé.
+#. Il s'agit simplement d'un coup de téléphone donné aux gardiens, ce qui n'est évidemment pas sécurisé.
 #. Chemiotis souhaiterait par contre pouvoir disposer de l'historique d'accès.
 #. Chemiotis voudrait contrôler les heures de présences dans l'usine des employés.
 #. La conservation de l'historique des événements étant imposée par la réglementation du Venezuela, cette fonctionnalité devra être intégrée dans iAccess.
