@@ -47,7 +47,7 @@ CR004 Matériels de contrôle d'accès
 #. Des groupes de 2 à 16 bissas peuvent être alignés par point d'accès.
 #. Le matériel est extrêmement performant (à condition que les contrôles logiciels suivent).
 #. Ceci permet des flux importants à un même point d'accès (jusqu'à 100 passages/mn).
-#. Les bissas sont symétriques (mais possèdent une face A et B orientée de manière arbitraire à l'assemblage).
+#. Les bissas sont symétriques
 #. Ils possèdent systématiquement des lecteurs sur les deux faces (contrairement aux Bibussolas).
 #. Ils peuvent ainsi contrôler à la fois l’entrée et la sortie.
 #. Ce qui permet a tout moment être capable de savoir qui est dans une zone.

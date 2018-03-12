@@ -35,7 +35,7 @@ CR002 Réunion iAcces pour KIS de Doha
 
 #. Les différentes zones du site ont été représentées sur le plan sécurité.
 #. Par contre les bâtiments, installations et autres espaces non sécurisés n'y sont pas.
-#. De même pour les entrées de véhicules et autres entrées gérées par des gardiens en poste.
+#. De même pour les entrées de véhicules et autres entrées gérées par des vigiles.
 #. Les différents types de bissas ont été choisis en fonction du niveau de sécurité à atteindre.
 #. Il est rappelé qu'une présentation des bissas aura lieu à Berlin - Bissis.
 #. Différents groupes de personnes autorisées devront être définis.
@@ -58,7 +58,7 @@ CR002 Réunion iAcces pour KIS de Doha
 #. Différents autres groupes de badgeurs ont été évoqués dans ce cas d'étude.
 #. Par exemple les administratifs et les journalistes ont chacun leurs zones.
 #. Les gardiens peuvent aller dans toutes les zones dont la salle de contrôle.
-#. Ils peuvent depuis leur smartphone débloquer l’accès ou la sortie d’une personne bloquée suite à un incident.
+#. Ils peuvent depuis leur phablette débloquer l’accès ou la sortie d’une personne bloquée suite à un incident.
 #. Même si différents groupes de badgeurs ont été identifiés, d'autres pourraient apparaître.
 #. Un superviseur unique par site pourra créer des administrateurs pour ces groupes. Il leur donnera des droits sur la gestion d'une ou plusieurs zones.
 #. Chaque groupe sera alors créé et géré par un administrateur et pas par le superviseur.
@@ -67,7 +67,7 @@ CR002 Réunion iAcces pour KIS de Doha
 #. Bien entendu les administrateurs de groupe ne pourront pas donner à une groupe l'accès à des zones dont il n'est pas chargé. 
 #. Les badges papiers pour les spectateurs seront émis par un système en ligne.
 #. Dans une telle compétition, on attend en effet environ 100 000 spectateurs.
-#. Plus de 400 000 billets seront sans doute émis (mais par forcément utilisés).
+#. Plus de 400 000 billets seront sans doute émis (mais pas forcément utilisés).
 #. Le système en ligne CyberCompetition (par Competis) sera en charge de l'émission des billets.
 #. Pour les spectateurs les badges prendront la forme de QR codes sur leurs billets papiers (cf CR002Fig2_)
 #. De façon générale des logiciels externes (e.g. CyberCompetition) devront pouvoir gérer les membres d’un groupe, comme ajouter des spectateurs à des compétitions pour lesquels des billets ont été émis par l’ERP CyberCompetition.

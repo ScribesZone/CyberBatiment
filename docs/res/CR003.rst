@@ -72,7 +72,7 @@ CR003 Réunion iAcces pour Chimiotis
     .. table:: Tab. 1 : Exemple ELL 01-06
 
         +---------+----------------------------------+--------+
-        | Groupes |               Périodes           | Zones  |
+        | Groupes |               Période            | Zones  |
         +=========+==================================+========+
         | GX, GY  | xxxxxxJASxxx LMMJVxx 08:00-12:00 | PT, PO |
         +---------+----------------------------------+--------+
