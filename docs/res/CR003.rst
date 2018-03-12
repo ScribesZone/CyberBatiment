@@ -71,13 +71,13 @@ CR003 Réunion iAcces pour Chimiotis
 
     .. table:: Tab. 1 : Exemple ELL 01-06
 
-        +-----+---------+-----------------------------------+-------+
-        |     | Groupes |               Périodes            | Zones |
-        +=====+=========+===================================+=======+
-        |  A1 | GX, GY  |  xxxxxxJASxxx LMMJVxx 08:00-12:00 | PT,PO |
-        +-----+---------+-----------------------------------+-------+
-        |  A2 | GX      | xxMAxxxxxxxx xxxxxSD 16:00-23:00  | X, DM |
-        +-----+---------+-----------------------------------+-------+
+        +---------+-----------------------------------+-------+
+        | Groupes |               Périodes            | Zones |
+        +=========+===================================+=======+
+        | GX, GY  |  xxxxxxJASxxx LMMJVxx 08:00-12:00 | PT,PO |
+        +---------+-----------------------------------+-------+
+        | GX      | xxMAxxxxxxxx xxxxxSD 16:00-23:00  | X, DM |
+        +---------+-----------------------------------+-------+
 
 #. Les autorisations sous forme de triplets pourraient aussi convenir a priori pour le stade de Doha en 2019.
 #. Il s'agit en effet d'une représentation générale et sans doute satisfaisante.
