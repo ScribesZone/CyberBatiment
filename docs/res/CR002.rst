@@ -83,5 +83,5 @@ CR002 Réunion iAcces pour le stade Kasumigaoka de Tokyo
         Fig. 3 : Exemple de fichier généré par Competis - Exemple Competis 01_05
 
 #. La transmission des données entre CyberCompetition et iAccess devra se faire via un web service sécurisé.
-#. En conclusion, la visite sur le site du stade olympique de Doha a été très instructive.
+#. En conclusion, la visite sur le site du stade olympique de Tokyo a été très instructive.
 #. Il correspond bien aux fonctionnalités de base que devra permettre iAccess à terme.
