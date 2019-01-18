@@ -1,7 +1,7 @@
 CR001 Réunion de lancement de iAccess
 =====
 
-:Date : 02-01 08h-10h
+:Date : 02-01 08h-10h d
 :Type : Réunion
 :Lieu : Grenoble-AccessIT
 :PartiesPrenantes : ABI, JDR, KWG, MPA, PSO, TNA, ZSH
