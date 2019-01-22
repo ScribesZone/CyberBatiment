@@ -42,9 +42,9 @@ CR001 Réunion de lancement de iAccess
 #. AccessIT et Bissis ont passé un accord pour mettre sur le marché des bissas le plus rapidement possible.
 #. Bissis sera donc partie prenante pour le projet et fournira les bissas, avec leurs drivers.
 #. Une prochaine réunion aura lieu dans les locaux de Bissis à Berlin pour étudier les bissas.
-#. Différents organisations ont déjà contacté AccessIT pour la mise en place de iAccess.
+#. Différentes organisations ont déjà contacté AccessIT pour la mise en place de iAccess.
 #. L'entreprise chimique Chimiotis désire sécuriser son site de Morrocoy pour octobre 2019.
-#. Les sites des jeux olympique de TOKYO doivent également être sécurisées pour 2020.
+#. Les sites des jeux olympiques de TOKYO doivent également être sécurisées pour 2020.
 #. Plusieurs universités indiennes voudraient également migrer vers iAccess en 2019.
 #. Les commerciaux de AccessIT prévoient une augmentation exponentielle des demandes au prochain trimestre.
 #. Chaque version de iAccess sera conçue et développée de façon incrémentale, en commençant par les fonctionnalités les plus demandées par les clients.
@@ -53,5 +53,5 @@ CR001 Réunion de lancement de iAccess
 #. AccessIT utilisera une démarche agile pour s'assurer de l'adéquation du système avec les besoins des sites.
 #. La conception de la version de iAccess pour Morrocoy a été confiée à l’IM2AG
 #. La prochaine réunion aura lieu à Londres en présence de Competis.
-#. En conclusion, il a été observé que ce consortium international ne pourrait fonctionner qui si toutes les parties prenantes parviennent à participer et à mettre en oeuvre leur savoir-faire.
+#. En conclusion, il a été observé que ce consortium international ne pourrait fonctionner qui si toutes les parties prenantes parviennent à participer et à mettre en œuvre leur savoir-faire.
 #. Les différentes parties prenantes sont toutes conscientes des opportunités commerciales apportées par ce nouveau contexte sécuritaire.
