@@ -1,14 +1,14 @@
 CR001 Réunion de lancement de iAccess
 =====
 
-:Date : 02-01 08h-10h d
-:Type : Réunion
-:Lieu : Grenoble-AccessIT
-:PartiesPrenantes : ABI, JDR, KWG, MPA, PSO, TNA, ZSH
-:Organisateur : ABI
-:Rapporteur : KWG
-:Presents : ABI, JDR, KWG, MPA, PSO, TNA, ZSH
-:Objectifs : Présentation des parties prenantes, grands objectifs
+:Date: 02-01 08h-10h d
+:Type: Réunion
+:Lieu: Grenoble-AccessIT
+:PartiesPrenantes: ABI, JDR, KWG, MPA, PSO, TNA, ZSH
+:Organisateur: ABI
+:Rapporteur: KWG
+:Presents: ABI, JDR, KWG, MPA, PSO, TNA, ZSH
+:Objectifs: Présentation des parties prenantes, grands objectifs
 
 ..  attention::
 
@@ -26,7 +26,7 @@ CR001 Réunion de lancement de iAccess
 #.  - Cassandra COHEN (CCN) - IM2AG, Grenoble
 #. ------------------------------------------- 
 #. Le présent projet a été baptisé iAccess.
-#. Les demandes de sécurisation de sites et de bâtiments se développent suites aux attentats des dernières années. Il s'agit d'une opportunité commerciale pour les sociétés de sécurité comme AccessIT.
+#. Les demandes de sécurisation de sites et de bâtiments se développent suite aux attentats des dernières années. Il s'agit d'une opportunité commerciale pour les sociétés de sécurité comme AccessIT.
 #. La société AccessIT est spécialisée dans les systèmes de contrôle d’accès.
 #. AccessIT ne produit pas les équipements de sécurité, mais les assemble et les installe.
 #. Les logiciels contrôlant ces équipements sont développés par AccessIT à la demande pour chaque site.
@@ -44,7 +44,7 @@ CR001 Réunion de lancement de iAccess
 #. Une prochaine réunion aura lieu dans les locaux de Bissis à Berlin pour étudier les bissas.
 #. Différentes organisations ont déjà contacté AccessIT pour la mise en place de iAccess.
 #. L'entreprise chimique Chimiotis désire sécuriser son site de Morrocoy pour octobre 2019.
-#. Les sites des jeux olympiques de TOKYO doivent également être sécurisées pour 2020.
+#. Les sites des jeux olympiques de Tokyo doivent également être sécurisées pour 2020.
 #. Plusieurs universités indiennes voudraient également migrer vers iAccess en 2019.
 #. Les commerciaux de AccessIT prévoient une augmentation exponentielle des demandes au prochain trimestre.
 #. Chaque version de iAccess sera conçue et développée de façon incrémentale, en commençant par les fonctionnalités les plus demandées par les clients.

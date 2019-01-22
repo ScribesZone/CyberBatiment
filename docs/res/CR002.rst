@@ -14,10 +14,10 @@ CR002 Réunion iAcces pour le stade Kasumigaoka de Tokyo
     Ce compte rendu est un *document de travail* et n'est pas contractuel.
 
 
-#. Nouvel intervenant:
+#. Nouvel intervenant :
 #. _ Apito GUARACARUMBO (AGO) - Competis, Tokyo
 #. La réunion a eu lieu sur le site du stade Kasumigaoka de Tokyo (新国立霞ヶ丘競技場) guidé par AGO.
-#. Le stade a été détruit et est actuellement reconstruit à neuf pour les jeux olympique d'été de 2020.
+#. Le stade a été détruit et est actuellement reconstruit à neuf pour les jeux olympiques d'été de 2020.
 #. Son accès doit être sécurisé pour fin 2019.
 #. Grâce aux bissas, cette installation a été considérée comme viable par AccessIT.
 #. AccessIT et Bissis seront les seuls à pouvoir équiper des sites avec des bissas.
@@ -64,7 +64,7 @@ CR002 Réunion iAcces pour le stade Kasumigaoka de Tokyo
 #. Chaque groupe d'un site sera alors créé et géré par un administrateur et pas par le superviseur.
 #. Par exemple les administrateurs des sportifs pourront éditer leurs badges et définir les zones auxquelles ils ont accès et à quels moments. 
 #. Les administrateurs de presse s'occuperont des badges des journalistes, etc.
-#. Bien entendu les administrateurs de groupe ne pourront pas donner à une groupe l'accès à des zones dont il n'est pas chargé. 
+#. Bien entendu les administrateurs de groupe ne pourront pas donner à un groupe l'accès à des zones dont il n'est pas chargé. 
 #. Les badges papiers pour les spectateurs seront émis par un système en ligne.
 #. Dans une telle compétition, on attend en effet environ 100 000 spectateurs.
 #. Plus de 400 000 billets seront sans doute émis (mais pas forcément utilisés).
