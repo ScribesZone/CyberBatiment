@@ -72,7 +72,7 @@ CR004 Matériels de contrôle d'accès
 
         Fig. 2 : Incident de « piggybacking (cf |videoBibussola| seconde 52)
 
-#. En fait les bissas sont entièrement contrôlés par le driver fourni par AccessIT.
+#. En fait les bissas sont entièrement contrôlés par le driver fourni par Bissis.
 #. Ces drivers seront installés sur le serveur de contrôle.
 #. Chaque bissas sera connecté au panneau de brassage du serveur de contrôle par une connexion RFC 821
 #. Bissis propose deux types de bissas, les bissas Astra et les bissas Xtra.
