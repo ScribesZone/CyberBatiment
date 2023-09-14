@@ -15,7 +15,7 @@ Comptes rendus de réunions
     res/CR004.rst
     res/CR005.rst
 
-Ce contenu est disponible sur le site http://CyberBatiment.readthedocs.org
+Ce contenu est disponible sur le site http://iaccess.readthedocs.org
 
 .. . tip::
 .. .   * Pour les aspects *qualité*, se reporter au projet ScribeQuality_
